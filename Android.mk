@@ -16,7 +16,7 @@
 
 ifneq ($(filter rk3288,$(TARGET_DEVICE)),)
 
-LOCAL_PATH := device/rockchip/rk3288/
+LOCAL_PATH := device/bbkedu/s3/
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
