@@ -15,8 +15,8 @@
 #
 
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
-PRODUCT_DEVICE := rk3288
-PRODUCT_NAME := omni_rk3288
-PRODUCT_BRAND := rockchip
-PRODUCT_MODEL := NS PRO
-PRODUCT_MANUFACTURER := rockchip
+PRODUCT_DEVICE := S3
+PRODUCT_NAME := omni_S3
+PRODUCT_BRAND := bbkedu
+PRODUCT_MODEL := S3
+PRODUCT_MANUFACTURER := bbkedu
