@@ -14,9 +14,9 @@
 # limitations under the License.
 #
 
-ifneq ($(filter rk3288,$(TARGET_DEVICE)),)
+ifneq ($(filter S3,$(TARGET_DEVICE)),)
 
-LOCAL_PATH := device/bbkedu/s3/
+LOCAL_PATH := device/bbkedu/S3/
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
