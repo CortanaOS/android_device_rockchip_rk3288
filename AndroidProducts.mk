@@ -14,6 +14,6 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/rockchip/rk3288/
+LOCAL_PATH := device/bbkedu/S3
 
-PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_rk3288.mk
+PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_S3.mk
