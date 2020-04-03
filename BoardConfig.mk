@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/rockchip/rk3288
+LOCAL_PATH := device/bbkedu/S3
 
 TARGET_BOARD_PLATFORM := rk3288
 TARGET_BOOTLOADER_BOARD_NAME := rk3288
